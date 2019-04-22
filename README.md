@@ -8,7 +8,12 @@ In preperation for the PowerShell + DevOps Summit Iron Scripter Competition puzz
 
 * Puzzle 1 - https://ironscripter.us/iron-scripter-2019-prequel-1/
 * Puzzle 2 - https://ironscripter.us/iron-scripter-2019-prelude-challenge-2/
+* Puzzle 3 - https://ironscripter.us/iron-scripter-prelude-challenge-3/
+* Puzzle 4 - https://ironscripter.us/iron-scripter-2019-prelude-challenge-4/
 
 ## Solutions
 
 * Solution 1 - https://ironscripter.us/iron-scripter-prelude-1-solutions/
+* Solution 2 - https://ironscripter.us/prelude-2-solution/
+* Solution 3 - https://ironscripter.us/iron-scripter-prelude-challenge-3-solution/
+* Solution 4 - https://ironscripter.us/iron-scripter-2019-prelude-4-solution/
