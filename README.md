@@ -10,6 +10,7 @@ In preperation for the PowerShell + DevOps Summit Iron Scripter Competition puzz
 * Puzzle 2 - https://ironscripter.us/iron-scripter-2019-prelude-challenge-2/
 * Puzzle 3 - https://ironscripter.us/iron-scripter-prelude-challenge-3/
 * Puzzle 4 - https://ironscripter.us/iron-scripter-2019-prelude-challenge-4/
+* Puzzle 5 - https://ironscripter.us/a-challenge-from-the-dark-faction/
 
 ## Solutions
 
